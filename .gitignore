@@ -1,0 +1,8 @@
+# Python Virtual Env
+/Lib
+/Scripts
+pyvenv.cfg
+/__pycache__
+
+# Environment Variables
+.env
